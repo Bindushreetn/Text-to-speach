@@ -1,4 +1,4 @@
-# Text-to-speach
+# Text-to-speech
 
 Here is the four lines of code to convert Text-To-Speech.
 for converting Text-to-speech first we have to install a package called text-to-speech conversion library. 
